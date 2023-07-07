@@ -1,4 +1,4 @@
-# [ADD YOUR USER NAME HERE] Project
+# Skye404 Project
 
 This is a very basic starting point for your projects.
 
