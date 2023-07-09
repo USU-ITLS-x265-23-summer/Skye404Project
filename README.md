@@ -19,4 +19,3 @@ Once there, read the ["Staging and committing code changes"](https://code.visual
 Do NOT follow anything before/above the "Staging and committing code changes" section — all of this is already configured when you created your CodeSpace from within the GitHub repo!
 
 ### Where Skye's Project Begins
-<title>Skye Smith<title/>
