@@ -17,3 +17,6 @@ The CodeSpace instance allows you to work completely independently on your code,
 Once there, read the ["Staging and committing code changes"](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_staging-and-committing-code-changes) section and down.  
 
 Do NOT follow anything before/above the "Staging and committing code changes" section — all of this is already configured when you created your CodeSpace from within the GitHub repo!
+
+### Where Skye's Project Begins
+<title>Skye Smith<title/>
