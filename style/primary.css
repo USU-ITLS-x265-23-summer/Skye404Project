@@ -1,0 +1,32 @@
+form {
+    background-color:darkgrey;
+} 
+
+h1 {
+    color: white;
+    padding-top: 10px;
+    text-align: center;
+    font-size: 60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+input {
+    background-color: white;
+    width: 70%;
+    margin-left: 12%;
+    font-size: 20px;
+    padding: 16px 16px;
+    border-radius: 10px;
+    border-color: black;
+    margin-botton: 20px;
+}
+textarea {
+    background-color: white;
+    width: 70%;
+    margin-left: 12%;
+    font-size: 20px;
+    padding: 16px 16px;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 25px;
+    font-family: 
+}
